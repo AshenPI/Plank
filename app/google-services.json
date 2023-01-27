@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292720649701",
+    "project_id": "plank-30a97",
+    "storage_bucket": "plank-30a97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292720649701:android:1fe4d50376e4f9916f3b0c",
+        "android_client_info": {
+          "package_name": "com.example.plank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292720649701-gf1t6gkdd8sklh5fctg5agggtmj95vr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWsIUK98HykU3gR-ARR4Yx-aKuNohT88s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292720649701-gf1t6gkdd8sklh5fctg5agggtmj95vr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
